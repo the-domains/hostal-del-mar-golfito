@@ -1,0 +1,28 @@
+name: Hostal del Mar Golfito
+favicon: null
+layout_spectrum: 0.1689800249878317
+typography_spectrum: 0.8586222594603896
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8219312538858503
+  lightness: 0.6328874707687646
+  saturation: 0.9359627719968557
+  rhythmicContrast: 0.5124041575472802
+purpose: []
